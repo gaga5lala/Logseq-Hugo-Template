@@ -8,7 +8,9 @@ lastMod: 2022-04-27
 ---
 tasks
 
-  + 記錄流程
+## 初始設定
+
+## 編輯流程
 
 https://charleschiugit.github.io/
 
@@ -34,4 +36,18 @@ https://github.com/CharlesChiuGit/Logseq-Hugo-Template
 
 https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages
 
+## 測試
 
+{{< logseq/orgWARNING >}}logseq warning{{< / logseq/orgWARNING >}}
+
+{{< logseq/orgPINNED >}}logseq pinned{{< / logseq/orgPINNED >}}
+
+## Refs
+
+  + https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
+
+  + https://gohugo.io/content-management/front-matter/
+
+  + https://github.com/sawhney17/logseq-schrodinger
+
+  + https://github.com/CharlesChiuGit/Logseq-Hugo-Template
