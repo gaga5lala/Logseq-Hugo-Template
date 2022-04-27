@@ -24,6 +24,8 @@ params:
   contact: "LinusT@example.com"
   feedlinks: true
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
+  showtoc: true
+  tocopen: false
   mobileMenu: true
 
 outputs:
